@@ -1,0 +1,16 @@
+{
+  "name": "coffeebreak-mocha-runner",
+  "description": "Coffeebreak node.js test runner using mocha",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "name": "\"AndiOxidant\" Andi Heinkelein",
+    "email": "andi.oxidant@noname-media.com"
+  },
+  "keywords": "coffeebreak-plugin test unittest testrunner mocha coffeebreak",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^1.20.1",
+    "node.extend": "^1.0.10"
+  }
+}
